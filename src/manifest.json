@@ -3,12 +3,34 @@
     {
       "name": "game",
       "assets": [
+
         {
-          "name": "logo",
-          "srcs": "assets/core/logo_white.png"
+          "name": "background",
+          "srcs": "assets/core/bg.png"
+        },
+
+        {
+          "name": "rect",
+          "srcs": "assets/core/rect.png"
+        },
+
+        {
+          "name": "shuffle",
+          "srcs": "assets/core/shuffle.png"
+        },
+        {
+          "name": "play",
+          "srcs": "assets/core/install0.png"
+        },
+        {
+          "name": "circle",
+          "srcs": "assets/core/circle.png"
         }
+
+
       ]
     },
+   
     {
       "name": "fonts",
       "assets": [

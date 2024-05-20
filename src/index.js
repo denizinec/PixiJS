@@ -22,7 +22,6 @@ gsap.ticker.add(() => {
 });
 
 async function init() {
-
   document.body.appendChild(app.view);
 
   let assets = await initAssets();
@@ -32,7 +31,7 @@ async function init() {
   PixiPlugin.registerPIXI(PIXI);
 
   const game = new Game();
-  app.stage.addChild(game)
+  app.stage.addChild(game);
 }
 
 init();
