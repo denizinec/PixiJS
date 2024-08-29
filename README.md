@@ -1,6 +1,5 @@
-# Welcome to Playable Factory 🚀
+# Playable Factory Task 🚀
 
-## 🚀 Getting Started
 
 ### Prerequisites
 
